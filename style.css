@@ -1,0 +1,57 @@
+body{
+    background-color: darkorange;
+}
+head{
+    text-align: center;
+}
+h2{
+    color: rgb(5, 73, 55);
+}
+.section-header{
+    text-indent: 50px;
+    letter-spacing: 3px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: lawngreen;
+}
+.italian {
+    font-style: italic
+}
+#page-title {
+    text-shadow: 2px 2px lightgrey;
+    text-underline-color: aqua;
+}
+#favorite-movie-title {
+    font-style: italic;
+    color: red;
+}
+
+#favorite-music-artist-name {
+    background-color: red;
+    color: salmon;
+    font-style: oblique;
+}
+#most-favorite-food {
+    font-size: 20px;
+}
+
+.favorite-section {
+    border: 3px black solid;
+    margin: 5px;
+    padding: 4px;
+}
+.favorite-image {
+    width: 48%;
+    border-radius: 10px;
+    padding: 5px;
+}
+th {
+    text-decoration: underline;
+    color: cornflowerblue;
+}
+td {
+    color: darkmagenta;
+    border: 4px black solid;
+}
